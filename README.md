@@ -5,4 +5,6 @@
 #### Majoring in Biology (Biostatistics Concentration)
 **Learning Python, HTML, and CSS**
 
-*Contact me! howtocontactemptiness@gmail.com*
+*Contact me!*
+personal: onealwashingtonxyz@gmail.com
+school: swashington8@atu.edu
