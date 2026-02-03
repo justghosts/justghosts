@@ -6,4 +6,3 @@
 
 *Contact me!*
 personal: onealwashingtonxyz@gmail.com
-school: swashington8@atu.edu
